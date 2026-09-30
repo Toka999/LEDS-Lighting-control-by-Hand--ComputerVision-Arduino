@@ -1,3 +1,7 @@
+
+
+
+
 # ✋💡 Hand Gesture LED Controller
 
 Control LEDs with your bare hand. A webcam tracks your hand in real time using **Python, OpenCV and MediaPipe**, counts how many fingers are raised, and sends that number to an **Arduino** through **PyFirmata**. The Arduino turns on exactly that many LEDs.
@@ -15,9 +19,9 @@ Control LEDs with your bare hand. A webcam tracks your hand in real time using *
 
 ## 🎬 Demo
 
-<video src="Real-demo.mp4" controls muted width="100%"></video>
+<video src="[Real-demo.mp4](https://github.com/user-attachments/assets/1297c73d-de85-45e0-89a9-59d5062d7f1c)" controls muted width="100%"></video>
 
-> If the player does not load in your viewer, [click here to watch the demo](Real-demo.mp4).
+> If the player does not load in your viewer, [click here to watch the demo]([Real-demo.mp4](https://github.com/user-attachments/assets/1297c73d-de85-45e0-89a9-59d5062d7f1c)).
 
 ---
 
